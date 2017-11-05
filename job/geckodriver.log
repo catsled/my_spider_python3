@@ -1,0 +1,54 @@
+1509798712080	geckodriver	INFO	geckodriver 0.19.0
+1509798712104	geckodriver	INFO	Listening on 127.0.0.1:54931
+1509798713473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0VIe61hfWHsr"
+1509798714537	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509798715520	Marionette	INFO	Enabled via --marionette
+1509798718828	Marionette	INFO	Listening on port 41640
+1509798718941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509798718995	Marionette	DEBUG	Register listener.js for window 2147483649
+1509798719045	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509798719748	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509798719748	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509798719775	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.qzone.com/"
+1509798719961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.qzone.com/"
+1509798721043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qzone.qq.com/"
+1509798768790	Marionette	DEBUG	Received DOM event "pageshow" for "https://qzone.qq.com/"
+1509798825987	geckodriver	INFO	geckodriver 0.19.0
+1509798825990	geckodriver	INFO	Listening on 127.0.0.1:53851
+1509798827175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fOZv07Kf5Pso"
+1509798827399	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509798827782	Marionette	INFO	Enabled via --marionette
+1509798829744	Marionette	INFO	Listening on port 34718
+1509798829856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509798829923	Marionette	DEBUG	Register listener.js for window 2147483649
+1509798829979	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509798830860	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509798830861	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509798830891	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.qzone.com/"
+1509798831087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.qzone.com/"
+1509798832346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qzone.qq.com/"
+1509798877881	Marionette	DEBUG	Received DOM event "pageshow" for "https://qzone.qq.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509798882523	geckodriver	INFO	geckodriver 0.19.0
+1509798882527	geckodriver	INFO	Listening on 127.0.0.1:44453
+1509798883701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V8VAvPGyqYGC"
+1509798883921	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509798884311	Marionette	INFO	Enabled via --marionette
+1509798886460	Marionette	INFO	Listening on port 37213
+1509798886535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509798886662	Marionette	DEBUG	Register listener.js for window 2147483649
+1509798886776	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509798887577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509798887580	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509798887602	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.qzone.com/"
+1509798887689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.qzone.com/"
+1509798888633	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qzone.qq.com/"
+1509798919505	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1509798926658	Marionette	DEBUG	Received DOM event "pageshow" for "https://qzone.qq.com/"
+1509798927370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509798927877	Marionette	DEBUG	Received DOM event "beforeunload" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?proxy_url=https%3A//qzs.qq.com/qzone/v6/portal/proxy.html&daid=5&&hide_title_bar=1&low_login=0&qlogin_auto_login=1&no_verifyimg=1&link_target=blank&appid=549000912&style=22&target=self&s_url=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&pt_qr_app=%E6%89%8B%E6%9C%BAQQ%E7%A9%BA%E9%97%B4&pt_qr_link=https%3A//z.qzone.com/download.html&self_regurl=https%3A//qzs.qq.com/qzone/v6/reg/index.html&pt_qr_help_link=https%3A//z.qzone.com/download.html&pt_no_auth=0"
+1509798928488	Marionette	DEBUG	Received DOM event "pagehide" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?proxy_url=https%3A//qzs.qq.com/qzone/v6/portal/proxy.html&daid=5&&hide_title_bar=1&low_login=0&qlogin_auto_login=1&no_verifyimg=1&link_target=blank&appid=549000912&style=22&target=self&s_url=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&pt_qr_app=%E6%89%8B%E6%9C%BAQQ%E7%A9%BA%E9%97%B4&pt_qr_link=https%3A//z.qzone.com/download.html&self_regurl=https%3A//qzs.qq.com/qzone/v6/reg/index.html&pt_qr_help_link=https%3A//z.qzone.com/download.html&pt_no_auth=0"
+1509798928491	Marionette	DEBUG	Received DOM event "unload" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?proxy_url=https%3A//qzs.qq.com/qzone/v6/portal/proxy.html&daid=5&&hide_title_bar=1&low_login=0&qlogin_auto_login=1&no_verifyimg=1&link_target=blank&appid=549000912&style=22&target=self&s_url=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&pt_qr_app=%E6%89%8B%E6%9C%BAQQ%E7%A9%BA%E9%97%B4&pt_qr_link=https%3A//z.qzone.com/download.html&self_regurl=https%3A//qzs.qq.com/qzone/v6/reg/index.html&pt_qr_help_link=https%3A//z.qzone.com/download.html&pt_no_auth=0"
+1509798928523	Marionette	DEBUG	Received DOM event "pageshow" for "https://qzs.qq.com/qzone/v5/loginsucc.html?para=izone"
+1509798928535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qzs.qq.com/qzone/v5/loginsucc.html?para=izone"
+1509798929637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
