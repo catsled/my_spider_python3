@@ -7,7 +7,7 @@ from scrapy_splash import SplashRequest
 
 
 class TestSpider(scrapy.Spider):
-    name = 'test'
+    name = 'qunar_touch'
     allowed_domains = ['train.qunar.com']
     start_urls = ['http://touch.train.qunar.com/trainList.html?startStation=%E5%8C%97%E4%BA%AC%E5%8D%97&endStation=%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5&date=2017-11-11']
 
